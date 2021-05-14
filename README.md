@@ -19,4 +19,5 @@ The following features are included in this video player:
 </ul>
 
 ### Glimpses
+![Screenshot (39)](https://user-images.githubusercontent.com/26957756/118231443-c789bf00-b4ac-11eb-9094-18dfc235968e.png)
 
